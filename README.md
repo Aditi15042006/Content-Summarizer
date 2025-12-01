@@ -30,17 +30,12 @@ User → HTML UI → JavaScript → Amazon Bedrock → Claude → Summary
 
 ---
 
-##  Screenshots
-(Add after running once)
-
----
-
 ##  Code
 HTML and JS files included.
 
 ---
 
 ##  Author
-Your Name  
+Aditi Sahu  
 Workshop 1 – AI for Bharat, H2S Academy
 
